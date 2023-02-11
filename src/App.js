@@ -76,6 +76,7 @@ const App =()=> {
   return (
     <div className=" h-screen grid place-items-center">
       <div className='bg-white w-96 p-4 rounded-md'>
+        <h2 className='text-center text-xl font-bold'>The Weather in the World Today</h2>
         <div className='flex items-center justify-between'>
         <input type='text'ref={inputRef} placeholder='enter city'
          className='text-xl border-b p-1 border-gray-300 font-semibold uppercase flex-1'/>  
