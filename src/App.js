@@ -77,7 +77,7 @@ const App =()=> {
     <div className=" h-screen grid place-items-center">
       <div className='bg-white w-96 p-4 rounded-md'>
         <div className='flex items-center justify-between'>
-        <input type='text'ref={inputRef} placeholder='Introduzca Ciudad'
+        <input type='text'ref={inputRef} placeholder='enter city'
          className='text-xl border-b p-1 border-gray-300 font-semibold uppercase flex-1'/>  
          <button onClick={fetchWeather}>
           <img src='https://cdn-icons-png.flaticon.com/512/758/758651.png'alt='...' className='w- 
