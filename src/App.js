@@ -81,8 +81,8 @@ const App =()=> {
         <input type='text'ref={inputRef} placeholder='enter city'
          className='text-xl border-b p-1 border-gray-300 font-semibold uppercase flex-1'/>  
          <button onClick={fetchWeather}>
-          <img src='https://cdn-icons-png.flaticon.com/512/758/758651.png'alt='...' className='w- 
-          8'/>
+          <img src='https://cdn-icons-png.flaticon.com/512/758/758651.png'alt='...' className='w-7'/> 
+          
          </button>
         </div>
         <div

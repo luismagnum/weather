@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 body {
-  background-image: url(./assets/imagen/time.svg);
+  background-image: url("https://images.pexels.com/photos/1119976/pexels-photo-1119976.jpeg?auto=compress&cs=tinysrgb&w=600");
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
